@@ -2,7 +2,6 @@
 *.session-journal
 sandbox.py
 virtual_env_1/
-env/
 .idea/
 __pycache__/
 nohup.out
